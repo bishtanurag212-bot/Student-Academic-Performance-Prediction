@@ -11,10 +11,6 @@ AI-Powered Academic Performance Prediction &amp; Student Success Platform
 - **Interactive Dashboard**: Visual analytics and trend analysis
 - **Multi-Dataset Insights**: Compare performance across different institutions
 
-### 📊 Demo
-
-![Dashboard](assets/dashboard_screenshot.png)
-
 ### 🛠️ Tech Stack
 
 - **Frontend**: Streamlit
